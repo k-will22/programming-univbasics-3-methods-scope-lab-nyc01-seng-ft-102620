@@ -10,5 +10,5 @@ end
 
 def link 
   $dangerous = "It's Dangerous To Go Alone! Take This."
-  puts $danerous 
+  puts $dangerous 
 end
